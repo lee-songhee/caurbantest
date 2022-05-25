@@ -14,7 +14,7 @@ cellular automata for urban catchment
 
 CA-based water circulation and inundation proto-type model
 
-<p align="center">
+<p align="left">
     <img src="https://user-images.githubusercontent.com/99592576/170301234-4406eafe-e1b9-46ab-8bbf-e50ee23ca435.png" width="600px" height="auto"/>
 </p>
 - 격자 별 침수 깊이, 침투, 토양수분 저류, 지표 유출 등 물순환 요소 모의가 가능
@@ -26,7 +26,7 @@ CA-based water circulation and inundation proto-type model
 
 - 미국 Oregon 주, Portland시 Downtown 일부 (2.2km2)
 
-<p align="center">
+<p align="left">
     <img src="https://user-images.githubusercontent.com/99592576/170301319-5ea2ea3f-d716-4d34-b009-6d536046b725.png" width="400px" height="auto"/>
 </p>
 <br>
