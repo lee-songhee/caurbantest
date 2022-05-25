@@ -10,7 +10,7 @@ cellular automata for urban catchment
 
 <br>
 
-# CA proto-type model 
+## CA proto-type model 
 
 CA-based water circulation and inundation proto-type model
 
@@ -21,7 +21,7 @@ CA-based water circulation and inundation proto-type model
 
 <br>
 
-# Study Area
+## Study Area
 
 - 미국 Oregon 주, Portland시 Downtown 일부 (2.2km2)
 
@@ -29,7 +29,7 @@ CA-based water circulation and inundation proto-type model
 
 <br>
 
-# Install
+## Install
 
 The package can be installed from CRAN :
 
